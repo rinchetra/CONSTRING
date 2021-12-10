@@ -1,0 +1,10 @@
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\bin\Debug\CONSTRING.exe.config
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\bin\Debug\CONSTRING.exe
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\bin\Debug\CONSTRING.pdb
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.csproj.AssemblyReference.cache
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.ConString.resources
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.Properties.Resources.resources
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.csproj.GenerateResource.cache
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.csproj.CoreCompileInputs.cache
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.exe
+C:\Users\Rct\source\repos\CONSTRING\CONSTRING\obj\Debug\CONSTRING.pdb
